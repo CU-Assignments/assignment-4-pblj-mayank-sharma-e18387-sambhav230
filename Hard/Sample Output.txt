@@ -1,0 +1,24 @@
+Ticket Booking System
+1. VIP Booking
+2. Regular Booking
+3. Exit
+Please enter your choice (1/2/3): 1
+VIP booked a ticket. Seats left: 9
+
+Ticket Booking System
+1. VIP Booking
+2. Regular Booking
+3. Exit
+Please enter your choice (1/2/3): 2
+Regular booked a ticket. Seats left: 8
+
+Ticket Booking System
+1. VIP Booking
+2. Regular Booking
+3. Exit
+Please enter your choice (1/2/3): 3
+Exiting the Ticket Booking System.
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
