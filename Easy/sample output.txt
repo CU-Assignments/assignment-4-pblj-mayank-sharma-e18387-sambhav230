@@ -1,0 +1,69 @@
+
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Exit
+Choose an option: 1
+Enter Employee ID: 1223
+Enter Employee Name: ABCD
+Enter Employee Salary: 12345
+Employee added successfully.
+
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Exit
+Choose an option: 2
+Enter Employee ID to update: 1223
+Enter new name: AbCd
+Enter new salary: 12000
+Employee details updated successfully.
+
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Exit
+Choose an option: 1
+Enter Employee ID: 1224
+Enter Employee Name: PqRs
+Enter Employee Salary: 13000
+Employee added successfully.
+
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Exit
+Choose an option: 4
+Enter Employee ID to search: 1223
+Employee Found: ID: 1223, Name: AbCd, Salary: 12000.0
+
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Exit
+Choose an option: 3
+Enter Employee ID to remove: 1223
+Employee removed successfully.
+
+Employee Management System
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Exit
+Choose an option: 5
+Exiting...
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
